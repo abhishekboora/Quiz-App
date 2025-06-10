@@ -1,0 +1,6 @@
+/* Ensure full height and background color */
+html, body, #root {
+  height: 100%;
+  margin: 0;
+  background-color: #eff6ff; /* Tailwind's bg-blue-50 */
+}
